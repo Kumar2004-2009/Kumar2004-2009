@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar2004-2009&label=Profile%20views&color=0e75b6&style=flat" alt="kumar2004-2009" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar2004-2009" alt="kumar2004-2009" /></a> </p>
+<p align="left"> <a href="https://blogscape.netlify.app/">Visit my Blog website</a> </p>
 
 - 🔭 I’m currently working on **Interdepartmental Cooperation Platform**
 
